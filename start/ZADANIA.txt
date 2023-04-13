@@ -1,0 +1,77 @@
+# Zadanie 1 polega na stworzeniu nowego repozytorium (czyli miejsca do przechowywania kodu) na platformie GitHub oraz dodaniu do niego tego projektu, który znajduje się w kodzie napisanym w komentarzu.
+
+Aby zacząć, będziesz potrzebować konta na GitHubie (jeśli nie masz, musisz je założyć). Następnie postępuj zgodnie z poniższymi krokami:
+
+    1. Zaloguj się na swoje konto na GitHubie.
+    2. Na górnym pasku nawigacyjnym kliknij przycisk "New" (Nowy) w prawym górnym rogu, aby utworzyć nowe repozytorium, lub otwórz istniejące repozytorium, które chciałbyś sklonować.
+    
+    ( jeśli tworzysz nowe repozytorium:
+    3. Wprowadź nazwę swojego repozytorium. Może to być nazwa projektu lub cokolwiek innego, co pomoże Ci go zidentyfikować. Możesz również dodać opcjonalny opis.
+    4. Wybierz opcje konfiguracji repozytorium, takie jak dostępność (publiczne lub prywatne) oraz opcje inicjalizacji (np. pliki README, .gitignore itp.), jeśli chcesz.
+    5. Kliknij przycisk "Create repository" (Utwórz repozytorium), aby utworzyć nowe repozytorium.)
+
+Teraz, gdy masz utworzone repozytorium na GitHubie, możesz dodać do niego projekt, który znajduje się w kodzie napisanym w komentarzu. Możesz to zrobić, wykonując następujące kroki:
+
+    1. Skopiuj adres URL swojego repozytorium na GitHubie. Możesz go znaleźć na stronie głównej swojego repozytorium.
+    2. Otwórz lokalny projekt na swoim komputerze w środowisku programistycznym.
+    3. Znajdź plik z projektem, który chciałbyś dodać do repozytorium, na swoim komputerze.
+    4. Otwórz terminal lub konsolę w swoim środowisku programistycznym i przejdź do lokalnego folderu z projektem, używając komendy "cd" (change directory).
+    5. Zainicjuj repozytorium Git w lokalnym folderze swojego projektu, używając komendy "git init". To utworzy lokalne repozytorium Git, które będzie śledzić zmiany w twoim projekcie.
+    6. Dodaj wszystkie pliki z projektu do lokalnego repozytorium Git, używając komendy "git add .". To przygotuje pliki do zatwierdzenia.
+    7. Zatwierdź zmiany w lokalnym repozytorium Git, używając komendy "git commit -m "Opis zmian"". To zapisze zmiany w historii repozytorium Git z krótkim opisem zmian, które wprowadziłeś.
+    8. Powiąż lokalne repozytorium Git z repozytorium na GitHubie, używając komendy "git remote add origin <adres_URL_repozytorium_GitHub>".
+
+###########################################################################################
+##  Po każdym z nastepnych rozwiązanych zadań dodawaj commit do repozytorium git:
+##  git status (aby sprawdzić które pliki zostały zmienione)
+##  git diff (aby obejrzeć zmiany)
+##  git add .  (aby dodać wszystkie pliki)
+##  git commit -m "Opis tego, co zostało zmienione"   (Zacznij z wielkiej litery i od czasownika w trybie rozkazującym: "Zmień"/"Dodaj"/"Napraw")
+## git push (aby dodać zmiany do repozytorium na githubie)
+###########################################################################################
+
+# Zadanie 2:
+
+    Zmodyfikuj style nagłówka listy zadań, dodając nową czcionkę oraz zmieniając kolor napisu.
+
+# Zadanie 3:
+
+    Wprowadź krótki opis możliwości dostępnych na stronie pod nagłówkiem "Lista zadań". Dodaj również zewnętrzy link prowadzący do strony "https://asana.com/resources/make-better-to-do-lists".
+
+# Zadanie 4:
+
+    Umieść logo w lewym górnym rogu strony, które będzie widoczne niezależnie od przewijania. Wykorzystaj obraz o adresie URL "https://i.ibb.co/NYbnS8q/todo.png".
+
+# Zadanie 5:
+
+    Dodaj tło do strony, używając obrazka dostępnego pod adresem URL "https://i.ibb.co/b3SYwGH/8c2b922922405f1f78a731600f4e3547.jpg".
+
+# Zadanie 6:
+
+    Dodaj favicon oraz <title> do strony, wykorzystując obrazek logo.
+
+# Zadanie 7:
+
+    Zmodyfikuj przycisk "Zakończone" tak, aby po kliknięciu zmieniał kolor tła na zielony.
+
+# Zadanie 8:
+
+    Dodaj animację do przycisku "Dodaj". Po najechaniu na przycisk powinien powiększyć się 1.1 razy i zmienić kolor na ciemniejszy.
+
+# Zadanie 9:
+
+    Zmodyfikuj przycisk "Zakończone" tak, aby po kliknięciu zmieniał swoją nazwę na "Wznów".
+
+# Zadanie 10:
+
+    Wyodrębnij funkcję "renderTasks", która będzie odpowiedzialna za renderowanie aktualnych zadań. To ułatwi pracę przy rozwiązywaniu kolejnych zadań.
+
+Zadanie 11:
+
+    Dodaj przycisk "Posortuj" oraz funkcję, która posortuje zadania alfabetycznie.
+    Po kliknięciu tego przycisku powinny się pokazać posortowane zadania.
+
+Zadanie 12:
+
+    Dodaj przycisk "Filtruj" oraz funkcję, która pozwoli na odfiltrowanie zakończonych zadań alfabetycznie.
+    Po klkiknięciu tego przycisku powinny się pokazać tylko niezakończone zadania
