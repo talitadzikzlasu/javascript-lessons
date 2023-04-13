@@ -1,2 +1,1 @@
-# javascript-lessons
-# javascript-lessons
+🚀 Repozytorium z zadaniami frontendowymi! 🎨🔧
