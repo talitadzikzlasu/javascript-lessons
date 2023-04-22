@@ -1,0 +1,33 @@
+# Zadanie 1: Zmień kolor tła nagłówka na jasnobłękitny.
+
+# Zadanie 2: Do każdego elementu nawigacji dodaj szare podkreślenie o grubości 3px.
+
+# Zadanie 3: Dodaj losowy text ("lorem ipsum") do każdej z sekcji. Pod koniec pierwszej sekcji dodaj link/przycisk "pokaż więcej.." w jasnopomarańczowym kolorze. Po kliknięciu tego przycisku, pokaż resztę tekstu.
+
+# Zadanie 4: Wyświetl alert po kliknięciu na link "Kontakt" w nawigacji.
+
+# Zadanie 5: Dodaj obrazek logo do nagłówka i ustaw go po prawej stronie.
+
+# Zadanie 6: Usuń marginesy dookoła strony. 
+
+# Zadanie 7: W footerze dodaj 3 kolumny odnośników/linków, które prowadzą do zewnętrznych stron. W kazdej kolumnie dodaj minumum 3 linki. Wyrównaj całość do prawej a tekst linków do lewej. Patrz rysunek.
+
+# Zadanie 8: Dodaj stronę "Contact". Stwórz na niej formularz kontaktowy z polami wprowadzania danych takimi jak imię, email, telefon i wiadomość. (nie musi działać, tylko html). Umieść formularz w obramowaniu koloru jasnoszarego z zaokrąglonymi rogami.
+
+# Zadanie 9: Dodaj efekt hover do linków nawigacji,zmieniając kolor podkreślenia.
+
+# Zadanie 10: Dodaj stronę About. Dojad na niej krótki tekst wyśrodkowany poziomo. Nad tekstem dodaj zdjęcie profilowe o okrągłym kształcie, wyśrodkowane względem strony i tekstu.
+
+Rysunki:
+index
+https://i.ibb.co/MhNbFj9/Screenshot-from-2023-04-22-16-20-40.png
+kontakt
+https://i.ibb.co/rMVRN5S/Screenshot-from-2023-04-22-16-22-46.png
+omnie
+https://i.ibb.co/7RGX6tQ/Screenshot-from-2023-04-22-16-23-31.png
+
+
+
+# Zadanie 11: Na stronie głównej dodaj "galerię zdjęć". Dodaj do niej minimum 10 zdjęć. (polecam stronę https://unsplash.com/ z darmowymi ładnymi zdjęciami). Wyświetl je w rzedach po 3 zdjęcia w rzędzie, zastosuj równe odstępy między zdjęciami w pionie jak i poziomie. Po kliknięciu na zdjęcie otwieraj je na nowej stronie. 
+
+
